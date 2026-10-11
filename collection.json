@@ -3,285 +3,173 @@
     "id": "ai-compare",
     "name": "AI Compare API Calculator",
     "url": "https://www.aicompare.ninja/en/api-calculator",
-    "tags": [
-      "calculator",
-      "pricing",
-      "comparison"
-    ],
+    "tags": ["calculator", "pricing", "comparison"],
     "description": "Estimate monthly LLM API costs from token usage and compare models using published OpenRouter prices. Free, no signup."
   },
   {
     "id": "aidatahub",
     "name": "AI Data Hub",
     "url": "https://www.aidatahub.io/data/llm-pricing",
-    "tags": [
-      "pricing",
-      "comparison"
-    ]
+    "tags": ["pricing", "comparison"]
   },
   {
     "id": "arena",
     "name": "Arena",
     "url": "https://arena.ai/leaderboard/code/webdev",
-    "tags": [
-      "leaderboard",
-      "coding",
-      "benchmarks"
-    ],
+    "tags": ["leaderboard", "coding", "benchmarks"],
     "wait": 8000
   },
   {
     "id": "artificialanalysis",
     "url": "https://artificialanalysis.ai/",
-    "tags": [
-      "benchmarks",
-      "leaderboard",
-      "coding",
-      "comparison"
-    ]
+    "tags": ["benchmarks", "leaderboard", "coding", "comparison"]
   },
   {
     "id": "benchlm",
     "url": "https://benchlm.ai/",
-    "tags": [
-      "leaderboard",
-      "benchmarks"
-    ]
+    "tags": ["leaderboard", "benchmarks"]
   },
   {
     "id": "cloudquell",
     "url": "https://cloud.cloudquell.com/llm/?status=ga",
-    "tags": [
-      "pricing",
-      "comparison"
-    ]
+    "tags": ["pricing", "comparison"]
   },
   {
     "id": "comparity",
     "name": "Comparity",
     "url": "https://comparity.ai/leaderboard.html",
-    "tags": [
-      "leaderboard",
-      "comparison"
-    ],
+    "tags": ["leaderboard", "comparison"],
     "icon": "https://comparity.ai/images/favicon-monogram.png"
   },
   {
     "id": "emproit",
     "url": "https://emproit.com/tools/llm-cost-calculator/",
-    "tags": [
-      "pricing",
-      "calculator",
-      "comparison"
-    ]
+    "tags": ["pricing", "calculator", "comparison"]
   },
   {
     "id": "leadscalc",
     "url": "https://www.leadscalc.com/calculators/ai/api-cost-estimator",
-    "tags": [
-      "pricing",
-      "calculator",
-      "benchmarks"
-    ]
+    "tags": ["pricing", "calculator", "benchmarks"]
   },
   {
     "id": "livebench",
     "url": "https://livebench.ai/",
-    "tags": [
-      "benchmarks",
-      "leaderboard",
-      "coding"
-    ]
+    "tags": ["benchmarks", "leaderboard", "coding"]
   },
   {
     "id": "llmcompare",
     "url": "https://llmcompare.dev/browse",
-    "tags": [
-      "comparison",
-      "catalog"
-    ]
+    "tags": ["comparison", "catalog"]
   },
   {
     "id": "llmcosthub",
     "url": "https://llmcosthub.com/pricing/",
-    "tags": [
-      "pricing",
-      "comparison"
-    ]
+    "tags": ["pricing", "comparison"]
   },
   {
     "id": "llmeconomics",
     "url": "https://llmeconomics.app/leaderboard",
-    "tags": [
-      "pricing",
-      "leaderboard"
-    ]
+    "tags": ["pricing", "leaderboard"]
   },
   {
     "id": "llming",
     "url": "https://llm.ing/",
-    "tags": [
-      "pricing",
-      "benchmarks",
-      "leaderboard",
-      "comparison"
-    ]
+    "tags": ["pricing", "benchmarks", "leaderboard", "comparison"]
   },
   {
     "id": "llmregistry",
     "url": "https://llm-registry.com/",
-    "tags": [
-      "leaderboard",
-      "benchmarks",
-      "comparison"
-    ]
+    "tags": ["leaderboard", "benchmarks", "comparison"]
   },
   {
     "id": "llmstats",
     "url": "https://llm-stats.com/leaderboards/best-ai-for-coding",
-    "tags": [
-      "leaderboard",
-      "coding"
-    ],
+    "tags": ["leaderboard", "coding"],
     "wait": 5000
   },
   {
     "id": "llmversus",
     "name": "LLMversus",
     "url": "https://llmversus.com/llm/pricing",
-    "tags": [
-      "pricing",
-      "benchmarks",
-      "comparison"
-    ]
+    "tags": ["pricing", "benchmarks", "comparison"]
   },
   {
     "id": "modelgrep",
     "url": "https://modelgrep.com/",
-    "tags": [
-      "comparison",
-      "pricing",
-      "benchmarks"
-    ]
+    "tags": ["comparison", "pricing", "benchmarks"]
   },
   {
     "id": "modelbenchmark",
     "name": "ModelBenchmark",
     "url": "https://modelbenchmark.io/",
     "description": "Independent ranking of 202 AI models from 16 public benchmarks, plus prices, context windows, and release dates for 2,406 models.",
-    "tags": [
-      "leaderboard",
-      "benchmarks",
-      "comparison",
-      "pricing"
-    ],
+    "tags": ["leaderboard", "benchmarks", "comparison", "pricing"],
     "icon": "https://modelbenchmark.io/favicon.svg"
   },
   {
     "id": "opencode",
     "name": "OpenCode Data",
     "url": "https://opencode.ai/data/",
-    "tags": [
-      "coding",
-      "benchmarks",
-      "leaderboard"
-    ],
+    "tags": ["coding", "benchmarks", "leaderboard"],
     "icon": "https://opencode.ai/favicon-v3.ico"
   },
   {
     "id": "openrouter",
     "url": "https://openrouter.ai/models",
-    "tags": [
-      "pricing",
-      "comparison",
-      "catalog"
-    ]
+    "tags": ["pricing", "comparison", "catalog"]
   },
   {
     "id": "pricepertoken",
     "url": "https://pricepertoken.com/",
-    "tags": [
-      "pricing",
-      "leaderboard",
-      "coding"
-    ]
+    "tags": ["pricing", "leaderboard", "coding"]
   },
   {
     "id": "rankllms",
     "url": "https://rankllms.com/",
-    "tags": [
-      "leaderboard",
-      "benchmarks",
-      "coding",
-      "pricing"
-    ]
+    "tags": ["leaderboard", "benchmarks", "coding", "pricing"]
   },
   {
     "id": "tokencost",
     "url": "https://tokencost.app/pricing",
-    "tags": [
-      "pricing",
-      "comparison"
-    ]
+    "tags": ["pricing", "comparison"]
   },
   {
     "id": "topaihubs",
     "name": "Top AI Hubs",
     "url": "https://topaihubs.com/llm-leaderboard",
-    "tags": [
-      "leaderboard",
-      "comparison"
-    ]
+    "tags": ["leaderboard", "comparison"]
   },
   {
     "id": "vakati",
     "name": "Vakati",
     "url": "https://www.vakati-tech.ai/compare",
-    "tags": [
-      "comparison",
-      "pricing",
-      "benchmarks",
-      "calculator"
-    ]
+    "tags": ["comparison", "pricing", "benchmarks", "calculator"]
   },
   {
     "id": "vellum",
     "name": "Vellum",
     "url": "https://www.vellum.ai/best-llm-for-coding",
     "description": "Guidance and evaluations for choosing coding models.",
-    "tags": [
-      "coding",
-      "benchmarks"
-    ],
+    "tags": ["coding", "benchmarks"],
     "icon": "https://www.vellum.ai/favicon.svg"
   },
   {
     "id": "vercel",
     "name": "Vercel AI Gateway",
     "url": "https://vercel.com/ai-gateway/models",
-    "tags": [
-      "catalog",
-      "pricing"
-    ]
+    "tags": ["catalog", "pricing"]
   },
   {
     "id": "whatllm",
     "name": "WhatLLM",
     "url": "https://whatllm.org/explore",
-    "tags": [
-      "leaderboard",
-      "comparison"
-    ],
+    "tags": ["leaderboard", "comparison"],
     "wait": 5000
   },
   {
     "id": "llm-versus-calc",
     "name": "LLM Versus API Cost Calculator",
     "url": "https://llmversus.vercel.app/tools/api-cost-calculator/",
-    "tags": [
-      "calculator",
-      "pricing",
-      "comparison"
-    ]
+    "tags": ["calculator", "pricing", "comparison"]
   }
 ]
