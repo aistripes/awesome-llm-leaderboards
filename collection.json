@@ -172,5 +172,11 @@
     "url": "https://whatllm.org/explore",
     "tags": ["leaderboard", "comparison"],
     "wait": 5000
+  },
+  {
+    "id": "llm-versus-calc",
+    "name": "LLM Versus API Cost Calculator",
+    "url": "https://llmversus.vercel.app/tools/api-cost-calculator/",
+    "tags": ["calculator", "pricing", "comparison"]
   }
 ]
