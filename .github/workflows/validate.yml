@@ -1,0 +1,28 @@
+name: Validate
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  ids:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          dups=$(jq -r '[.[].id] | group_by(.) | map(select(length > 1)[0]) | join(", ")' collection.json)
+          marker='<!-- duplicate-id -->'
+          id=$(gh api "repos/${GITHUB_REPOSITORY}/issues/${PR}/comments" --jq "map(select(.body | startswith(\"$marker\"))) | .[0].id")
+          [ -z "$dups" ] && [ "$id" != null ] && gh api -X DELETE "repos/${GITHUB_REPOSITORY}/issues/comments/$id"
+          [ -z "$dups" ] && exit 0
+          body="${marker}
+          **Duplicate id:** ${dups}"
+          [ "$id" = null ] && gh pr comment "$PR" --body "$body"
+          [ "$id" != null ] && gh api -X PATCH "repos/${GITHUB_REPOSITORY}/issues/comments/$id" -f body="$body"
+          exit 1
