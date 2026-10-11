@@ -1,0 +1,30 @@
+name: Comment
+
+on:
+  pull_request_target:
+    types: [opened]
+    paths: [collection.json]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  thanks:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+          LINK: ${{ github.server_url }}/${{ github.repository }}/blob/${{ github.event.pull_request.base.ref }}/README.md#contribute-a-source
+        run: |
+          marker='<!-- contribute -->'
+          id=$(gh api "repos/${GITHUB_REPOSITORY}/issues/${PR}/comments" --jq "map(select(.body | startswith(\"$marker\"))) | .[0].id")
+          [ "$id" != null ] && exit 0
+          body="${marker}
+          Thanks.
+
+          Keep the change to the [bare required fields](${LINK}): \`id\`, \`url\`, \`tags\` in \`collection.json\`.
+
+          \`name\`, \`description\`, \`icon\`, and \`wait\` are optional. Override them if you wish."
+          gh pr comment "$PR" --body "$body"
+          exit 0
