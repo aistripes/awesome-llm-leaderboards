@@ -65,12 +65,12 @@ CI on schedule, on push: refresh metadata, screenshots; regenerate README Source
 - [LLM Versus API Cost Calculator](https://llmversus.vercel.app/tools/api-cost-calculator/) - Free LLM API cost calculator - enter your monthly token usage and instantly compare what Claude, GPT-6, Gemini and DeepSeek APIs would cost. Find the cheapest …
 - [ModelBenchmark](https://modelbenchmark.io/) - Independent ranking of 202 AI models from 16 public benchmarks, plus prices, context windows, and release dates for 2,406 models.
 - [modelgrep](https://modelgrep.com/) - Find the best AI model for your use case: 300+ LLMs ranked by benchmarks, live speed, latency and price. Filter by cost, licence, context or capability - updated hourly.
-- [OpenCode Data](https://opencode.ai/data/) - As of October 11, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 41T tokens, followed by Muse Spark 1.3 Contributor (39T) and space-bunny (32T).
+- [OpenCode Data](https://opencode.ai/data/) - As of October 12, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 41T tokens, followed by Muse Spark 1.3 Contributor (37T) and space-bunny (25T).
 - [OpenRouter](https://openrouter.ai/models) - Compare 500+ LLMs from OpenAI, Anthropic, Google, Meta and more - pricing, context length, and benchmarks side by side, all through one API.
 - [Price Per Token](https://pricepertoken.com/) - Free LLM API pricing comparison. Compare GPT-5, Claude, Gemini & DeepSeek costs instantly. Updated daily with official prices from OpenAI, Anthropic & more.
 - [RankLLMs](https://rankllms.com/) - Research-backed AI model and coding-tool reviews, head-to-head comparisons, pricing analysis and practical guides to help you choose what to use.
 - [The Aggregate](https://theaggregate.ai/models) - Every tracked model on one ELO scale fitted across thousands of public benchmarks, with uncertainty and benchmark coverage shown for each.
-- [TokenCost](https://tokencost.app/pricing) - Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 159+ LLMs. Sortable table with benchmarks. Free.
+- [TokenCost](https://tokencost.app/pricing) - Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 160+ LLMs. Sortable table with benchmarks. Free.
 - [Top AI Hubs](https://topaihubs.com/llm-leaderboard) - Comprehensive comparison and ranking of over 180 AI models (LLMs) across key metrics including quality, price, performance, speed (tokens per second & latency), context window & benchmark scores.
 - [Vakati](https://www.vakati-tech.ai/compare) - Head-to-head comparisons of the top language models: LiveBench scores across seven categories, input and output pricing, context windows, and the measured cost of a point of capability. Updated every 15 minutes.
 - [Vellum](https://www.vellum.ai/best-llm-for-coding) - Guidance and evaluations for choosing coding models.
