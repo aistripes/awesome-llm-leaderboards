@@ -35,8 +35,7 @@
       "benchmarks"
     ],
     "name": "Arena",
-    "description": "See which AI models rank highest at building real web apps: frontend, fullstack, games and dashboards. Ranked by developers on real builds.",
-    "icon": "https://arena.ai/images/favicon-rebrand.svg",
+    "description": "",
     "screenshot": "/shots/arena.jpg",
     "enable": true
   },
@@ -63,7 +62,7 @@
       "benchmarks"
     ],
     "name": "BenchLM",
-    "description": "Compare 889 AI models across 625 benchmarks, with 218 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.",
+    "description": "Compare 954 AI models across 640 benchmarks, with 225 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.",
     "icon": "https://benchlm.ai/favicon.svg",
     "screenshot": "/shots/benchlm.jpg",
     "enable": true
@@ -76,7 +75,7 @@
       "comparison"
     ],
     "name": "CloudQuell",
-    "description": "Compare API pricing for 59 LLMs from 8 providers (Anthropic, OpenAI, Google, xAI and more): input, output, cached and batch rates per 1M tokens.",
+    "description": "Compare API pricing for 60 LLMs from 8 providers (Anthropic, OpenAI, Google, xAI and more): input, output, cached and batch rates per 1M tokens.",
     "icon": "https://cloud.cloudquell.com/favicon.svg",
     "screenshot": "/shots/cloudquell.jpg",
     "enable": true
@@ -130,8 +129,8 @@
       "leaderboard",
       "coding"
     ],
-    "name": "LiveBench",
-    "description": "",
+    "name": "livebench.ai",
+    "description": "LiveBench 2.0 - a challenging, contamination-free long-horizon AI benchmark. Models do real work (decks, research reports, bug fixes, apps that run for hours) and we grade what they hand back.",
     "icon": "https://livebench.ai/favicon.ico",
     "screenshot": "/shots/livebench.jpg",
     "enable": true
@@ -269,7 +268,7 @@
       "leaderboard"
     ],
     "name": "OpenCode Data",
-    "description": "As of October 12, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 41T tokens, followed by Muse Spark 1.3 Contributor (37T) and space-bunny (25T).",
+    "description": "As of October 19, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 78T tokens, followed by Muse Spark 1.3 Contributor (25T) and space-bunny (17T).",
     "icon": "https://opencode.ai/favicon-v3.ico",
     "screenshot": "/shots/opencode.jpg",
     "enable": true
@@ -326,7 +325,7 @@
       "comparison"
     ],
     "name": "The Aggregate",
-    "description": "Every tracked model on one ELO scale fitted across thousands of public benchmarks, with uncertainty and benchmark coverage shown for each.",
+    "description": "Every tracked model on one rating scale fitted across thousands of public benchmarks, with uncertainty and benchmark coverage shown for each.",
     "icon": "https://theaggregate.ai/assets/favicon-BwdRL9QI.svg",
     "screenshot": "/shots/theaggregate.jpg",
     "enable": true
@@ -339,7 +338,7 @@
       "comparison"
     ],
     "name": "TokenCost",
-    "description": "Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 160+ LLMs. Sortable table with benchmarks. Free.",
+    "description": "Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 162+ LLMs. Sortable table with benchmarks. Free.",
     "icon": "https://tokencost.app/favicon.ico",
     "screenshot": "/shots/tokencost.jpg",
     "enable": true
