@@ -189,5 +189,12 @@
     "url": "https://aivs.tv/vs/",
     "tags": ["comparison", "coding"],
     "description": "Side-by-side AI model matchups built from posts on X where both models got the same prompt, with outputs shown as video and reported cost and time."
+  },
+  {
+    "id": "vsmodels",
+    "name": "VSModels",
+    "url": "https://vsmodels.app/#comparisons",
+    "tags": ["comparison", "calculator", "pricing", "coding"],
+    "description": "Source-linked editorial model comparisons with browser cost calculators. Published benchmark conditions and third-party examples are distinguished from illustrative previews."
   }
 ]
