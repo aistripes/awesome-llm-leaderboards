@@ -281,7 +281,7 @@
       "leaderboard"
     ],
     "name": "OpenCode Data",
-    "description": "As of October 21, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 102T tokens, followed by MiniMax-M3.1-Flash (37T) and Muse Spark 1.3 Contributor (16T).",
+    "description": "As of October 22, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 103T tokens, followed by MiniMax-M3.1-Flash (43T) and Muse Spark 1.3 Contributor (11T).",
     "icon": "https://opencode.ai/favicon-v3.ico",
     "screenshot": "/shots/opencode.jpg",
     "enable": true
@@ -350,7 +350,7 @@
       "comparison"
     ],
     "name": "TokenCost",
-    "description": "Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 162+ LLMs. Sortable table with benchmarks. Free.",
+    "description": "Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 164+ LLMs. Sortable table with benchmarks. Free.",
     "icon": "https://tokencost.app/favicon.ico",
     "screenshot": "/shots/tokencost.jpg",
     "enable": true
@@ -446,6 +446,21 @@
     "description": "Side-by-side AI model matchups built from posts on X where both models got the same prompt, with outputs shown as video and reported cost and time.",
     "icon": "https://aivs.tv/favicon.ico",
     "screenshot": "/shots/aivs.jpg",
+    "enable": true
+  },
+  {
+    "id": "vsmodels",
+    "url": "https://vsmodels.app/#comparisons",
+    "tags": [
+      "comparison",
+      "calculator",
+      "pricing",
+      "coding"
+    ],
+    "name": "VSModels",
+    "description": "Source-linked editorial model comparisons with browser cost calculators. Published benchmark conditions and third-party examples are distinguished from illustrative previews.",
+    "icon": "https://vsmodels.app/favicon.svg",
+    "screenshot": "/shots/vsmodels.jpg",
     "enable": true
   }
 ]
