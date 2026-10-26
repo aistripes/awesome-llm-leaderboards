@@ -196,5 +196,10 @@
     "url": "https://vsmodels.app/#comparisons",
     "tags": ["comparison", "calculator", "pricing", "coding"],
     "description": "Source-linked editorial model comparisons with browser cost calculators. Published benchmark conditions and third-party examples are distinguished from illustrative previews."
+  },
+  {
+    "id": "compute-comparison",
+    "url": "https://computecomparison.com/compare-two-llm-providers",
+    "tags": ["comparison", "pricing"]
   }
 ]
