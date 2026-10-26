@@ -67,7 +67,7 @@ CI on schedule, on push: refresh metadata, screenshots; regenerate README Source
 - [LLM Versus API Cost Calculator](https://llmversus.vercel.app/tools/api-cost-calculator/) - Free LLM API cost calculator - enter your monthly token usage and instantly compare what Claude, GPT-6, Gemini and DeepSeek APIs would cost. Find the cheapest …
 - [ModelBenchmark](https://modelbenchmark.io/) - Independent ranking of 202 AI models from 16 public benchmarks, plus prices, context windows, and release dates for 2,406 models.
 - [modelgrep](https://modelgrep.com/) - Find the best AI model for your use case: 300+ LLMs ranked by benchmarks, live speed, latency and price. Filter by cost, licence, context or capability - updated hourly.
-- [OpenCode Data](https://opencode.ai/data/) - As of October 26, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 109T tokens, followed by MiniMax-M3.1-Flash (33T) and GLM-5.3-Flash (7.9T).
+- [OpenCode Data](https://opencode.ai/data/) - As of October 26, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 110T tokens, followed by MiniMax-M3.1-Flash (33T) and GLM-5.3-Flash (7.9T).
 - [OpenRouter](https://openrouter.ai/models) - Compare 500+ LLMs from OpenAI, Anthropic, Google, Meta and more - pricing, context length, and benchmarks side by side, all through one API.
 - [Just a moment...](https://pricepertoken.com/)
 - [RankLLMs](https://rankllms.com/) - Research-backed AI model and coding-tool reviews, head-to-head comparisons, pricing analysis and practical guides to help you choose what to use.
