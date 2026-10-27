@@ -51,9 +51,10 @@ CI on schedule, on push: refresh metadata, screenshots; regenerate README Source
 - [aivs.tv](https://aivs.tv/vs/) - Side-by-side AI model matchups built from posts on X where both models got the same prompt, with outputs shown as video and reported cost and time.
 - [Arena](https://arena.ai/leaderboard/code/webdev)
 - [Artificial Analysis](https://artificialanalysis.ai/) - Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, output speed & latency.
-- [BenchLM](https://benchlm.ai/) - Compare 992 AI models across 708 benchmarks, with 228 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.
+- [BenchLM](https://benchlm.ai/) - Compare 993 AI models across 710 benchmarks, with 229 ranked scores, source evidence, API pricing, context windows, runtime, and head-to-head pages.
 - [CloudQuell](https://cloud.cloudquell.com/llm/?status=ga) - Compare API pricing for 60 LLMs from 8 providers (Anthropic, OpenAI, Google, xAI and more): input, output, cached and batch rates per 1M tokens.
 - [Comparity](https://comparity.ai/leaderboard.html)
+- [Compute Comparison](https://computecomparison.com/compare-two-llm-providers) - Compare any two LLM API providers side-by-side on input/output token pricing, latency, throughput, and context window. Covers OpenAI, Anthropic, Google, Groq, and 14+ more.
 - [EmproIT](https://emproit.com/tools/llm-cost-calculator/) - Compare AI API costs across OpenAI, Anthropic, Google, Mistral. Daily, monthly, annual projections. Free, no signup.
 - [LeadsCalc](https://www.leadscalc.com/calculators/ai/api-cost-estimator) - Calculate and compare API costs and benchmarks for OpenAI, Anthropic, Google Gemini, and DeepSeek for free. Estimate token usage, vision processing, and batch discounts instantly.
 - [livebench.ai](https://livebench.ai/) - LiveBench 2.0 - a challenging, contamination-free long-horizon AI benchmark. Models do real work (decks, research reports, bug fixes, apps that run for hours) and we grade what they hand back.
@@ -67,12 +68,12 @@ CI on schedule, on push: refresh metadata, screenshots; regenerate README Source
 - [LLM Versus API Cost Calculator](https://llmversus.vercel.app/tools/api-cost-calculator/) - Free LLM API cost calculator - enter your monthly token usage and instantly compare what Claude, GPT-6, Gemini and DeepSeek APIs would cost. Find the cheapest …
 - [ModelBenchmark](https://modelbenchmark.io/) - Independent ranking of 202 AI models from 16 public benchmarks, plus prices, context windows, and release dates for 2,406 models.
 - [modelgrep](https://modelgrep.com/) - Find the best AI model for your use case: 300+ LLMs ranked by benchmarks, live speed, latency and price. Filter by cost, licence, context or capability - updated hourly.
-- [OpenCode Data](https://opencode.ai/data/) - As of October 26, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 110T tokens, followed by MiniMax-M3.1-Flash (33T) and GLM-5.3-Flash (7.9T).
+- [OpenCode Data](https://opencode.ai/data/) - As of October 27, 2026, DeepSeek V4.1 Flash led OpenCode usage over the past 7 days with 108T tokens, followed by MiniMax-M3.1-Flash (22T) and GLM-5.3-Flash (7.4T).
 - [OpenRouter](https://openrouter.ai/models) - Compare 500+ LLMs from OpenAI, Anthropic, Google, Meta and more - pricing, context length, and benchmarks side by side, all through one API.
 - [Just a moment...](https://pricepertoken.com/)
 - [RankLLMs](https://rankllms.com/) - Research-backed AI model and coding-tool reviews, head-to-head comparisons, pricing analysis and practical guides to help you choose what to use.
 - [The Aggregate](https://theaggregate.ai/models) - Every tracked model on one rating scale fitted across thousands of public benchmarks, with uncertainty and benchmark coverage shown for each.
-- [Deployment Paused](https://tokencost.app/pricing)
+- [TokenCost](https://tokencost.app/pricing) - Compare API pricing for GPT-5.4, Claude Opus 4.6, Gemini 3.1, Grok 4, and 167+ LLMs. Sortable table with benchmarks. Free.
 - [Top AI Hubs](https://topaihubs.com/llm-leaderboard) - Comprehensive comparison and ranking of over 180 AI models (LLMs) across key metrics including quality, price, performance, speed (tokens per second & latency), context window & benchmark scores.
 - [Vakati](https://www.vakati-tech.ai/compare) - Head-to-head comparisons of the top language models: LiveBench scores across seven categories, input and output pricing, context windows, and the measured cost of a point of capability. Updated every 15 minutes.
 - [Vellum](https://www.vellum.ai/best-llm-for-coding) - Guidance and evaluations for choosing coding models.
