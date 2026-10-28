@@ -201,5 +201,12 @@
     "id": "compute-comparison",
     "url": "https://computecomparison.com/compare-two-llm-providers",
     "tags": ["comparison", "pricing"]
+  },
+  {
+    "id": "hypeorcode",
+    "name": "hype or code",
+    "url": "https://hypeorcode.com/",
+    "tags": ["comparison", "coding"],
+    "description": "What new OpenRouter models actually make from the same six prompts (pelican SVG, wristwatch, landing page, Breakout, logo, About copy), one shot each, shown side by side with time and cost. No scores on the daily prompts."
   }
 ]
